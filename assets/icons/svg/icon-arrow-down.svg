@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon arrow down</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer_2" transform="translate(-1752.000000, -37.000000)" fill="#4F4E5C" fill-rule="nonzero">
+            <g id="Language" transform="translate(1725.000000, 29.000000)">
+                <g id="caret-down-solid" transform="translate(27.000000, 8.000000)">
+                    <path d="M0.544966443,0 L7.45234899,0 C7.93020134,0 8.16912752,0.577181208 7.83087248,0.915436242 L4.37852349,4.3704698 C4.16912752,4.57986577 3.82818792,4.57986577 3.61879195,4.3704698 L0.166442953,0.915436242 C-0.171812081,0.577181208 0.067114094,0 0.544966443,0 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
