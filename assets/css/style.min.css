@@ -8029,7 +8029,7 @@ pre code {
 }
 
 select.form-control:focus::-ms-value {
-    color: #828282;
+    color: #ffffff;
     background-color: transparent;
 }
 
@@ -9872,7 +9872,7 @@ input[type="button"].btn-block {
     font-size: 0.789rem;
     font-weight: 400;
     line-height: 1.31;
-    color: #828282;
+    color: #ffffff;
     text-align: center;
     white-space: nowrap;
     background-color: #e3e3e3;
@@ -22668,7 +22668,7 @@ main.main-full-width {
 }
 
 .widget-area .widget.widget_search .search-form .input-group-append .btn, .widget-area .widget.widget_search .search-form .input-group-append .widget.widget_tag_cloud .tagcloud .tag-cloud-link, .widget-area .widget.widget_tag_cloud .tagcloud .widget.widget_search .search-form .input-group-append .tag-cloud-link, [class*='widget-container'] .widget.widget_tag_cloud .tagcloud .widget-area .widget.widget_search .search-form .input-group-append .tag-cloud-link, .widget-area .widget.widget_search .search-form .input-group-append #single .single-content .tags p a, #single .single-content .tags p .widget-area .widget.widget_search .search-form .input-group-append a, [class*='widget-container'] .widget.widget_search .search-form .input-group-append .btn, .widget-area .widget.widget_tag_cloud .tagcloud [class*='widget-container'] .widget.widget_search .search-form .input-group-append .tag-cloud-link, [class*='widget-container'] .widget.widget_search .search-form .input-group-append .widget.widget_tag_cloud .tagcloud .tag-cloud-link, [class*='widget-container'] .widget.widget_tag_cloud .tagcloud .widget.widget_search .search-form .input-group-append .tag-cloud-link, [class*='widget-container'] .widget.widget_search .search-form .input-group-append #single .single-content .tags p a, #single .single-content .tags p [class*='widget-container'] .widget.widget_search .search-form .input-group-append a {
-    color: #969696;
+    color: #ffffff;
     font-size: 0.842rem;
 }
 
