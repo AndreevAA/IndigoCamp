@@ -2,8 +2,8 @@ document.write(`<header id="header" class="site-header">
                             <div class="wrapper">
                                 <div class="header-content d-flex justify-content-between">
                                     <div class="header-logo">
-                                        <a class="logo logo-primary transform-scale-h" title="Logo" href="index.html">
-                                            <img src="assets/img/logo/logo.png" alt="Logo">
+                                        <a class="logo logo-primary transform-scale-h" title="Logo" href="../">
+                                            <img src="../assets/img/logo/logo.png" alt="Logo">
                                         </a>
                                     </div>
 
